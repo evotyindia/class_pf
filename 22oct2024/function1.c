@@ -17,6 +17,7 @@ int sum() {
 
     int sum = x + y + z;
    printf("The sum is: %d\n", sum);
+   return sum;
    
 }
 
