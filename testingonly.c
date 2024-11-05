@@ -1,9 +1,15 @@
-//Write a program to check whether a number is prime or not.            
-#include <stdio.h>
-void main( ) 
-{
- int j =1; 
-while ( j <= 10 ) 
-{ 
-  printf ( "\n%d", j ) ; 
-  j = j + 1 ; } }
+#include<stdio.h>
+int main(){
+    do {
+        printf("11111");
+
+        do
+        {
+            printf("22222");
+        } while (1>10);}
+    while(2>10);
+    return 0;
+            
+    }
+
+
