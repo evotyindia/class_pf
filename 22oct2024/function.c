@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+char result = 'A';
 
 // int sum(int x, int y, int z) 
 
@@ -22,6 +22,9 @@ int main() {
     scanf("%d", &z);
     printf("The sum is: %d\n", sum(x, y, z));
     printf("The multiplication is: %d\n", multiplication(x, y, z));
+    printf("The result is: %c\n", result);
+    
+
   
     return 0;
 }
